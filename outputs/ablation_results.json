@@ -1,0 +1,17 @@
+[
+  {
+    "input": "Main aaj bahut happy hoon",
+    "with_normalization": "ंऐन् आज् बहुत् हप्प्य् हून्",
+    "without_normalization": "मुख्य aajazaghuvon खुश हो"
+  },
+  {
+    "input": "bindass perform karo",
+    "with_normalization": "चरेफ़्री पेर्फ़ोर्म् करो",
+    "without_normalization": "बाइंड्स डोरो"
+  },
+  {
+    "input": "kya haal hai",
+    "with_normalization": "क्य हाल् है",
+    "without_normalization": "खया बाथ ै."
+  }
+]

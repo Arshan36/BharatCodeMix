@@ -1,0 +1,17 @@
+[
+    {
+        "text": "Hello world, how are you?",
+        "source_lang": "English",
+        "target_lang": "Hindi"
+    },
+    {
+        "text": "Main aaj bahut happy hoon",
+        "source_lang": "Hinglish",
+        "target_lang": "Hindi"
+    },
+    {
+        "text": "Yeh code bindass chal raha hai",
+        "source_lang": "Hinglish",
+        "target_lang": "English"
+    }
+]

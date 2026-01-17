@@ -1,0 +1,17 @@
+torch>=2.0.0
+transformers>=4.30.0
+sentencepiece
+sacremoses
+gradio>=3.0.0
+gTTS
+faster-whisper
+indic-transliteration
+sentence-transformers
+python-dotenv
+pandas
+numpy
+scipy
+soundfile
+librosa
+nltk
+pyttsx3

@@ -1,0 +1,4 @@
+{"source": "Hello world", "source_lang": "English", "target_lang": "Hindi", "reference": "नमस्ते दुनिया"}
+{"source": "How are you?", "source_lang": "English", "target_lang": "Hindi", "reference": "आप कैसे हैं?"}
+{"source": "Main theek hoon", "source_lang": "Hinglish", "target_lang": "Hindi", "reference": "मैं ठीक हूँ"}
+{"source": "Kya plan hai aaj?", "source_lang": "Hinglish", "target_lang": "English", "reference": "What is the plan today?"}
